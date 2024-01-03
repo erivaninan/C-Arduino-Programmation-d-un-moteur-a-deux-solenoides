@@ -1,4 +1,4 @@
-# C-projects
+Simulation, Fabrication, Montage et Programmation d'un moteur à deux solénoïdes
 
 Projet réalisé en langage C++ sur Arduino (programmation orientée objet)
 
